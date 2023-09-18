@@ -1,0 +1,24 @@
+From 9919aaa2a4375e831d9bdff571c417343c109a52 Mon Sep 17 00:00:00 2001
+From: Iskender <mederov.iskendr@gmail.com>
+Date: Mon, 18 Sep 2023 23:46:12 +0600
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 00935f1..4d6a7f6 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line 1
+-Line 2
++Line 1 a
++Line 2 b
+ Line 3
+ Line 4
+ Line 5
+-- 
+2.39.1.windows.1
+
